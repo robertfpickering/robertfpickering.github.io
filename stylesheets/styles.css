@@ -109,6 +109,10 @@ header {
   position:fixed;
 }
 
+li {
+	list-style-type: none;
+}
+
 header ul {
   list-style:none;
   height:40px;
