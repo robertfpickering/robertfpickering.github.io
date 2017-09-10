@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Robert Pickering</title>
+    <link>http://robertfpickering.me/categories/</link>
+    <description>Recent content in Categories on Robert Pickering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Photography</title>
+      <link>http://robertfpickering.me/categories/photography/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://robertfpickering.me/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketches</title>
+      <link>http://robertfpickering.me/categories/sketches/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://robertfpickering.me/categories/sketches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
