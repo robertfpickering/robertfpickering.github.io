@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Robert Pickering</title>
-    <link>http://robertfpickering.me/about/</link>
+    <link>https://www.robertfpickering.me/about/</link>
     <description>Recent content in Abouts on Robert Pickering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>About</title>
-      <link>http://robertfpickering.me/about/about/</link>
+      <link>https://www.robertfpickering.me/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://robertfpickering.me/about/about/</guid>
+      <guid>https://www.robertfpickering.me/about/about/</guid>
       <description>Robert is an artist interested in technology and peoples interaction with them. He enjoys working the latest modern technology and also toying with analogy equivalents. He is fascinated by the natural world and what makes things work.
 He mainly works in photography, but has been known to sketch, act in theatre and film, direct theatre and make short films.
 A summary of his acting work is available here.</description>

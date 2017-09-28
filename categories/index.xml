@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Robert Pickering</title>
-    <link>http://robertfpickering.me/categories/</link>
+    <link>https://www.robertfpickering.me/categories/</link>
     <description>Recent content in Categories on Robert Pickering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Photography</title>
-      <link>http://robertfpickering.me/categories/photography/</link>
+      <link>https://www.robertfpickering.me/categories/photography/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://robertfpickering.me/categories/photography/</guid>
+      <guid>https://www.robertfpickering.me/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sketches</title>
-      <link>http://robertfpickering.me/categories/sketches/</link>
+      <link>https://www.robertfpickering.me/categories/sketches/</link>
       <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://robertfpickering.me/categories/sketches/</guid>
+      <guid>https://www.robertfpickering.me/categories/sketches/</guid>
       <description></description>
     </item>
     
