@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.robertfpickering.me/posts/2017/10-14-vintage/vintage/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2017/09-24-bees/bees/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -164,7 +169,7 @@
   
   <url>
     <loc>http://www.robertfpickering.me/tags/macro/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,7 +205,7 @@
   
   <url>
     <loc>http://www.robertfpickering.me/categories/photography/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,13 +217,13 @@
   
   <url>
     <loc>http://www.robertfpickering.me/posts/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.robertfpickering.me/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,6 +254,12 @@
   <url>
     <loc>http://www.robertfpickering.me/tags/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/vintage/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
