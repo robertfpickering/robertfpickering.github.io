@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.robertfpickering.me/posts/2017/11-17-prague/prague/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2017/11-10-prague-statues/prague-statues/</loc>
     <lastmod>2017-11-10T00:00:00+00:00</lastmod>
   </url>
@@ -232,7 +237,7 @@
   
   <url>
     <loc>http://www.robertfpickering.me/categories/photography/</loc>
-    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,19 +255,19 @@
   
   <url>
     <loc>http://www.robertfpickering.me/posts/</loc>
-    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.robertfpickering.me/tags/prague/</loc>
-    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.robertfpickering.me/</loc>
-    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
