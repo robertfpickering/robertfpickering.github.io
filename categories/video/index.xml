@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Robert Pickering</title>
+    <link>http://www.robertfpickering.me/categories/video/</link>
+    <description>Recent content in Video on Robert Pickering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/video/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Painting Johnny</title>
+      <link>http://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</guid>
+      <description>A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.</description>
+    </item>
+    
+  </channel>
+</rss>

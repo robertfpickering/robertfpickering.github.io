@@ -8,8 +8,17 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/photography/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Painting Johnny</title>
+      <link>http://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</guid>
+      <description>A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.</description>
+    </item>
     
     <item>
       <title>Emma</title>
@@ -191,19 +200,6 @@
       <guid>http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds-0371.jpg&#34; alt=&#34;The Birds of Garden of Tuileries&#34; /&gt;</description>
-    </item>
-    
-    <item>
-      <title>Louvre, Paris by night</title>
-      <link>http://www.robertfpickering.me/posts/2015/11-26-paris-by-night/paris/</link>
-      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/posts/2015/11-26-paris-by-night/paris/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2015/11-26-paris-by-night/paris-0330.jpg&#34; alt=&#34;Louvre, Paris by night&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
