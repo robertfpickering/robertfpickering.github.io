@@ -8,8 +8,23 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/photography/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Macro Photography</title>
+      <link>http://www.robertfpickering.me/posts/2018/05-27-macro/macro/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2018/05-27-macro/macro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been given a macro lens. I&amp;rsquo;ve only been practicing a few days now, but these are my favourite shots so far.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2018/05-27-macro/macro-0338.jpg&#34; alt=&#34;macro&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Painting Johnny</title>
@@ -190,16 +205,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Birds of Garden of Tuileries</title>
-      <link>http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds/</link>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds-0371.jpg&#34; alt=&#34;The Birds of Garden of Tuileries&#34; /&gt;</description>
     </item>
     
   </channel>
