@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.robertfpickering.me/posts/2018/07-05-down-in-the-woods/down-in-the-woods/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2018/06-16-macro/macro/</loc>
     <lastmod>2018-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -301,13 +306,19 @@
   
   <url>
     <loc>http://www.robertfpickering.me/categories/photography/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.robertfpickering.me/tags/portrait/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/portrait/</loc>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -319,7 +330,7 @@
   
   <url>
     <loc>http://www.robertfpickering.me/posts/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,7 +342,7 @@
   
   <url>
     <loc>http://www.robertfpickering.me/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
