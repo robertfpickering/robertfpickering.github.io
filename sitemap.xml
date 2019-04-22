@@ -3,8 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.robertfpickering.me/categories/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/posts/2019/04-22-dandelion-macro/dandelion-macro/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/posts/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/dandelion/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/flower/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/macro/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/nature/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/nature/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/photography/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/posts/2019/04-20-bee-macro/bee-macro/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/posts/2019/04-21-daisy-macro/daisy-macro/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/bee/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/daisy/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2018/07-21-lorna-st-ouen/lorna-st-ouen/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/portrait/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/portrait/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -18,6 +117,12 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/macro/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2018/05-27-macro/macro/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
@@ -25,6 +130,12 @@
   <url>
     <loc>http://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/video/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -43,6 +154,18 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/prague/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/essay/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2017/11-24-prague-classic/prague-classic/</loc>
     <lastmod>2017-11-24T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +173,12 @@
   <url>
     <loc>http://www.robertfpickering.me/posts/2017/11-24-party-store/party-store/</loc>
     <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/dystopia/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -68,6 +197,18 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/acting/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/dutch-factory/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2017/11-04-dutch-factory/dutch-factory/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
   </url>
@@ -78,8 +219,20 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/vintage/</loc>
+    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2017/09-24-bees/bees/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/bee/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -88,8 +241,26 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/landscapes/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/sea/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2016/01-09-winter-scenery/winter-scenery/</loc>
     <lastmod>2016-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/winter/</loc>
+    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -98,8 +269,38 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/sunrise/</loc>
+    <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/jardin-des-tuileries/</loc>
+    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/paris/</loc>
+    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds/</loc>
     <lastmod>2015-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/birds/</loc>
+    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/louvre/</loc>
+    <lastmod>2015-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,8 +314,32 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/nightlife/</loc>
+    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/portraits/</loc>
+    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2015/10-24-cows/cows/</loc>
     <lastmod>2015-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/normandy/</loc>
+    <lastmod>2015-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/krakow/</loc>
+    <lastmod>2015-10-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -128,13 +353,49 @@
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/philosophy/</loc>
+    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/street-art/</loc>
+    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/grande-chaumiere/</loc>
+    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2014/05-23-grande-chaumiere/grande-chaumiere/</loc>
     <lastmod>2014-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://www.robertfpickering.me/tags/nude/</loc>
+    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/categories/sketches/</loc>
+    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.robertfpickering.me/posts/2013/09-15-holiday/holiday/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.robertfpickering.me/tags/landscape/</loc>
+    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -172,12 +433,6 @@
   </url>
   
   <url>
-    <loc>http://www.robertfpickering.me/tags/acting/</loc>
-    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.robertfpickering.me/acting/acting/</loc>
   </url>
   
@@ -187,215 +442,6 @@
   
   <url>
     <loc>http://www.robertfpickering.me/acting/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/bee/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/birds/</loc>
-    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/dutch-factory/</loc>
-    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/dystopia/</loc>
-    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/essay/</loc>
-    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/grande-chaumiere/</loc>
-    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/jardin-des-tuileries/</loc>
-    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/krakow/</loc>
-    <lastmod>2015-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/landscape/</loc>
-    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/landscapes/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/louvre/</loc>
-    <lastmod>2015-11-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/macro/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/macro/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/nature/</loc>
-    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/nightlife/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/normandy/</loc>
-    <lastmod>2015-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/nude/</loc>
-    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/paris/</loc>
-    <lastmod>2015-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/philosophy/</loc>
-    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/photography/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/portrait/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/portrait/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/portraits/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/posts/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/prague/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/sea/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/sketches/</loc>
-    <lastmod>2014-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/street-art/</loc>
-    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/sunrise/</loc>
-    <lastmod>2015-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/</loc>
-    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/categories/video/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/vintage/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.robertfpickering.me/tags/winter/</loc>
-    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

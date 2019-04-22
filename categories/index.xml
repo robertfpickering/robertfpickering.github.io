@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Robert Pickering</title>
@@ -8,7 +7,89 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>dandelion</title>
+      <link>http://www.robertfpickering.me/categories/dandelion/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/dandelion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flower</title>
+      <link>http://www.robertfpickering.me/categories/flower/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macro</title>
+      <link>http://www.robertfpickering.me/categories/macro/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/macro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>http://www.robertfpickering.me/categories/nature/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>http://www.robertfpickering.me/categories/photography/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bee</title>
+      <link>http://www.robertfpickering.me/categories/bee/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/bee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daisy</title>
+      <link>http://www.robertfpickering.me/categories/daisy/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/daisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait</title>
+      <link>http://www.robertfpickering.me/categories/portrait/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>http://www.robertfpickering.me/categories/video/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/video/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Essay</title>
@@ -20,56 +101,11 @@
     </item>
     
     <item>
-      <title>Macro</title>
-      <link>http://www.robertfpickering.me/categories/macro/</link>
-      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/categories/macro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>http://www.robertfpickering.me/categories/nature/</link>
-      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/categories/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>http://www.robertfpickering.me/categories/photography/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Portrait</title>
-      <link>http://www.robertfpickering.me/categories/portrait/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/categories/portrait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sketches</title>
+      <title>sketches</title>
       <link>http://www.robertfpickering.me/categories/sketches/</link>
       <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>http://www.robertfpickering.me/categories/sketches/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>http://www.robertfpickering.me/categories/video/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/categories/video/</guid>
       <description></description>
     </item>
     

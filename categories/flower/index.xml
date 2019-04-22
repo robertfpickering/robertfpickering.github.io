@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flower on Robert Pickering</title>
+    <link>http://www.robertfpickering.me/categories/flower/</link>
+    <description>Recent content in flower on Robert Pickering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/flower/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dandelion Macro Photography</title>
+      <link>http://www.robertfpickering.me/posts/2019/04-22-dandelion-macro/dandelion-macro/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2019/04-22-dandelion-macro/dandelion-macro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2019/04-22-dandelion-macro/wild-flower-macro-0348.jpg&#34; alt=&#34;Dandelion macro&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Daisy Macro Photography</title>
+      <link>http://www.robertfpickering.me/posts/2019/04-21-daisy-macro/daisy-macro/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2019/04-21-daisy-macro/daisy-macro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2019/04-21-daisy-macro/wild-flower-macro-0338.jpg&#34; alt=&#34;Daisy macro&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

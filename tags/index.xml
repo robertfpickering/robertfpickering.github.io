@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robert Pickering</title>
@@ -8,110 +7,29 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Acting</title>
-      <link>http://www.robertfpickering.me/tags/acting/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <title>nature</title>
+      <link>http://www.robertfpickering.me/tags/nature/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/acting/</guid>
+      <guid>http://www.robertfpickering.me/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bee</title>
-      <link>http://www.robertfpickering.me/tags/bee/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <title>portrait</title>
+      <link>http://www.robertfpickering.me/tags/portrait/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/bee/</guid>
+      <guid>http://www.robertfpickering.me/tags/portrait/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Birds</title>
-      <link>http://www.robertfpickering.me/tags/birds/</link>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/birds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dutch Factory</title>
-      <link>http://www.robertfpickering.me/tags/dutch-factory/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/dutch-factory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dystopia</title>
-      <link>http://www.robertfpickering.me/tags/dystopia/</link>
-      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/dystopia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grande Chaumiere</title>
-      <link>http://www.robertfpickering.me/tags/grande-chaumiere/</link>
-      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/grande-chaumiere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jardin Des Tuileries</title>
-      <link>http://www.robertfpickering.me/tags/jardin-des-tuileries/</link>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/jardin-des-tuileries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Krakow</title>
-      <link>http://www.robertfpickering.me/tags/krakow/</link>
-      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/krakow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscape</title>
-      <link>http://www.robertfpickering.me/tags/landscape/</link>
-      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/landscape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscapes</title>
-      <link>http://www.robertfpickering.me/tags/landscapes/</link>
-      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/landscapes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Louvre</title>
-      <link>http://www.robertfpickering.me/tags/louvre/</link>
-      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/louvre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Macro</title>
+      <title>macro</title>
       <link>http://www.robertfpickering.me/tags/macro/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
@@ -120,29 +38,110 @@
     </item>
     
     <item>
-      <title>Nightlife</title>
-      <link>http://www.robertfpickering.me/tags/nightlife/</link>
-      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      <title>prague</title>
+      <link>http://www.robertfpickering.me/tags/prague/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/nightlife/</guid>
+      <guid>http://www.robertfpickering.me/tags/prague/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Normandy</title>
-      <link>http://www.robertfpickering.me/tags/normandy/</link>
-      <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
+      <title>dystopia</title>
+      <link>http://www.robertfpickering.me/tags/dystopia/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/normandy/</guid>
+      <guid>http://www.robertfpickering.me/tags/dystopia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nude</title>
-      <link>http://www.robertfpickering.me/tags/nude/</link>
-      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      <title>acting</title>
+      <link>http://www.robertfpickering.me/tags/acting/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/tags/nude/</guid>
+      <guid>http://www.robertfpickering.me/tags/acting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dutch-factory</title>
+      <link>http://www.robertfpickering.me/tags/dutch-factory/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/dutch-factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vintage</title>
+      <link>http://www.robertfpickering.me/tags/vintage/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/vintage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bee</title>
+      <link>http://www.robertfpickering.me/tags/bee/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/bee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscapes</title>
+      <link>http://www.robertfpickering.me/tags/landscapes/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/landscapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sea</title>
+      <link>http://www.robertfpickering.me/tags/sea/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winter</title>
+      <link>http://www.robertfpickering.me/tags/winter/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sunrise</title>
+      <link>http://www.robertfpickering.me/tags/sunrise/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/sunrise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jardin des Tuileries</title>
+      <link>http://www.robertfpickering.me/tags/jardin-des-tuileries/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/jardin-des-tuileries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paris</title>
+      <link>http://www.robertfpickering.me/tags/paris/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/tags/paris/</guid>
       <description></description>
     </item>
     
