@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cartoon on Robert Pickering</title>
+    <link>http://www.robertfpickering.me/categories/cartoon/</link>
+    <description>Recent content in cartoon on Robert Pickering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/cartoon/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bad Things Happen to Boris Johnson</title>
+      <link>http://www.robertfpickering.me/posts/2019/12-14-boris-johnson-cartoon/dandelion-macro/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2019/12-14-boris-johnson-cartoon/dandelion-macro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2019/12-14-boris-johnson-cartoon/BJ_01.jpg&#34; alt=&#34;Bad Things Happen to Boris Johnson&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

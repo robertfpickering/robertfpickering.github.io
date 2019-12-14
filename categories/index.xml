@@ -7,8 +7,26 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cartoon</title>
+      <link>http://www.robertfpickering.me/categories/cartoon/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/cartoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>http://www.robertfpickering.me/categories/politics/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/categories/politics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dandelion</title>
