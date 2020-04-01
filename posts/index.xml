@@ -7,8 +7,17 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Wed, 01 Apr 2020 14:21:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 18:19:39 +0200</lastBuildDate>
     <atom:link href="/posts/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Old Masters - Joel Meyeowitz</title>
+      <link>http://www.robertfpickering.me/posts/2020/04-01-old-master-joel-meyeowitz/</link>
+      <pubDate>Wed, 01 Apr 2020 18:19:39 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>http://www.robertfpickering.me/posts/2020/04-01-old-master-joel-meyeowitz/</guid>
+      <description>&lt;p&gt;Continuing from yesterdays idea of recreating photographs from photographers that I admire.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Old Masters: Renger-Patzsch</title>
@@ -166,15 +175,6 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;http://www.robertfpickering.me/posts/2017/11-24-prague-classic/Prague-0810.jpg&#34; alt=&#34;Prague&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Dystopian Future That We Live In: Party Store</title>
-      <link>http://www.robertfpickering.me/posts/2017/11-24-party-store/party-store/</link>
-      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/posts/2017/11-24-party-store/party-store/</guid>
-      <description>Recently I was invited to a fancy dress party with a pirate theme. I had most of the things I needed for my costume but needed a few feathers and beads for that Johnny Depp look. Fortunately, not far from where I live, is a shop called “Festival Sensations”. The shop has the subtitle “Le plus grand magasin de fete de votre region” / “The largest party shop in your region”, which reminded me of the episode of Father Ted where the priests accidentally wander into “Ireland’s largest lingerie department”.</description>
     </item>
     
   </channel>
