@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Pickering on Robert Pickering</title>
-    <link>http://www.robertfpickering.me/</link>
+    <link>https://www.robertfpickering.me/</link>
     <description>Recent content in Robert Pickering on Robert Pickering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>Posts</title>
-      <link>http://www.robertfpickering.me/posts/</link>
+      <link>https://www.robertfpickering.me/posts/</link>
       <pubDate>Fri, 19 Jun 2020 00:10:49 +0200</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/posts/</guid>
+      <guid>https://www.robertfpickering.me/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abouts</title>
-      <link>http://www.robertfpickering.me/about/</link>
+      <link>https://www.robertfpickering.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/about/</guid>
+      <guid>https://www.robertfpickering.me/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Actings</title>
-      <link>http://www.robertfpickering.me/acting/</link>
+      <link>https://www.robertfpickering.me/acting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>http://www.robertfpickering.me/acting/</guid>
+      <guid>https://www.robertfpickering.me/acting/</guid>
       <description></description>
     </item>
     
