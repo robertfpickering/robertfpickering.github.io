@@ -8,7 +8,7 @@
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/prague/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.robertfpickering.me/tags/prague/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Prague Metalwork</title>
@@ -19,6 +19,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2017/12-01-prague-metalwork/Prague-0721.jpg&#34; alt=&#34;Prague&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -30,6 +32,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2017/11-24-prague-classic/Prague-0810.jpg&#34; alt=&#34;Prague&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -41,6 +45,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2017/11-17-prague/Prague-0791.jpg&#34; alt=&#34;Prague&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -52,6 +58,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2017/11-10-prague-statues/Prague-0718.jpg&#34; alt=&#34;Prague&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
   </channel>

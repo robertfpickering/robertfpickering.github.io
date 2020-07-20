@@ -8,7 +8,7 @@
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
     <lastBuildDate>Wed, 02 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/birds/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.robertfpickering.me/tags/birds/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Birds of Garden of Tuileries</title>
@@ -19,6 +19,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2015/12-02-paris-birds/paris-birds-0371.jpg&#34; alt=&#34;The Birds of Garden of Tuileries&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
   </channel>

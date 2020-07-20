@@ -8,7 +8,7 @@
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
     <lastBuildDate>Fri, 23 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/nude/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.robertfpickering.me/tags/nude/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Grande Chaumiere</title>
@@ -19,6 +19,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2014/05-23-grande-chaumiere/EPSON043_cropped.jpg&#34; alt=&#34;Grande Chaumiere&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -30,6 +32,8 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2013/03-04-gaia/SCN_0057_cropped.jpg&#34; alt=&#34;Gaia&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
   </channel>

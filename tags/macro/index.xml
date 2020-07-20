@@ -8,7 +8,7 @@
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
     <lastBuildDate>Fri, 19 Jun 2020 09:19:44 +0200</lastBuildDate>
-    <atom:link href="/tags/macro/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.robertfpickering.me/tags/macro/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>More Macro</title>
@@ -22,6 +22,18 @@
 
 
 </description>
+      
+      <enclosure url="/posts/2020/06-19-more-macro/large/macro-5785.jpg" length="1257046" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-more-macro/marco-5785.jpg" length="180789" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-more-macro/marco-5792.jpg" length="132429" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-more-macro/marco-5796.jpg" length="116453" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-more-macro/marco-5799.jpg" length="107760" type="image/jpeg" />
+      
+
     </item>
     
     <item>
@@ -37,6 +49,18 @@
 
 
 </description>
+      
+      <enclosure url="/posts/2020/06-19-macro/macro-0001.jpg" length="105689" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-macro/macro-5733.jpg" length="124657" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-macro/macro-5745.jpg" length="184688" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-macro/macro-5751.jpg" length="176990" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/06-19-macro/macro-5752.jpg" length="167815" type="image/jpeg" />
+      
+
     </item>
     
     <item>
@@ -46,6 +70,12 @@
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2020/04-26-pea-macro/</guid>
       <description>&lt;p&gt;Some of the peas we bought were already sprouting in their pods. We put them in a small dish on the kitchen counter.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-1.jpg" length="320230" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-5508.jpg" length="273817" type="image/jpeg" />
+      
+
     </item>
     
     <item>
@@ -58,6 +88,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2018/06-16-macro/macro-0480.jpg&#34; alt=&#34;macro&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -70,6 +102,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2018/05-27-macro/macro-0338.jpg&#34; alt=&#34;macro&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
     <item>
@@ -83,6 +117,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2017/09-24-bees/pond-0383.jpg&#34; alt=&#34;Bee&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+
     </item>
     
   </channel>

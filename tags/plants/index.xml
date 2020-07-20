@@ -8,7 +8,7 @@
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
     <lastBuildDate>Sun, 26 Apr 2020 15:51:49 +0200</lastBuildDate>
-    <atom:link href="/tags/plants/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.robertfpickering.me/tags/plants/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pea Macro</title>
@@ -17,6 +17,12 @@
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2020/04-26-pea-macro/</guid>
       <description>&lt;p&gt;Some of the peas we bought were already sprouting in their pods. We put them in a small dish on the kitchen counter.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-1.jpg" length="320230" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-5508.jpg" length="273817" type="image/jpeg" />
+      
+
     </item>
     
   </channel>
