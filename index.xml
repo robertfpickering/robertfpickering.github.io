@@ -7,8 +7,33 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sat, 28 Nov 2020 09:04:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 09:04:10 +0200</lastBuildDate>
     <atom:link href="https://www.robertfpickering.me/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Frost</title>
+      <link>https://www.robertfpickering.me/posts/2021/01-02-first-frost/</link>
+      <pubDate>Sat, 02 Jan 2021 09:04:10 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>https://www.robertfpickering.me/posts/2021/01-02-first-frost/</guid>
+      <description>&lt;p&gt;A hard but beautiful frost this morning.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8119.jpg" length="98764" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8120.jpg" length="164128" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8126.jpg" length="142961" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8127.jpg" length="148180" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8131.jpg" length="169288" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8136.jpg" length="170985" type="image/jpeg" />
+      
+      <enclosure url="/posts/2021/01-02-first-frost/first-frost-8142.jpg" length="261608" type="image/jpeg" />
+      
+
+    </item>
     
     <item>
       <title>In Search of Imperfection: Film Photography</title>
@@ -187,27 +212,6 @@ lovely portrait of the actor Charles Chaplin on his last day in America.&lt;/p&g
       <enclosure url="/posts/2020/04-01-old-master-joel-meyeowitz/old-master-joel-meyeowitz-2.jpg" length="522714" type="image/jpeg" />
       
       <enclosure url="/posts/2020/04-01-old-master-joel-meyeowitz/old-master-joel-meyeowitz-5337.jpg" length="841950" type="image/jpeg" />
-      
-
-    </item>
-    
-    <item>
-      <title>Old Masters: Renger-Patzsch</title>
-      <link>https://www.robertfpickering.me/posts/2020/03-31-old-master-renger-patzsch/</link>
-      <pubDate>Wed, 01 Apr 2020 14:21:26 +0200</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>https://www.robertfpickering.me/posts/2020/03-31-old-master-renger-patzsch/</guid>
-      <description>&lt;p&gt;I decided to try and create my interpretation of some of the photographers that I admire. Here&amp;rsquo;s some reinterpretation of Albert Renger Patzsch.&lt;/p&gt;</description>
-      
-      <enclosure url="/posts/2020/03-31-old-master-renger-patzsch/old-masters-Albert-Renger-Patzsch-1.jpg" length="251224" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/03-31-old-master-renger-patzsch/old-masters-Albert-Renger-Patzsch-2.jpg" length="366034" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/03-31-old-master-renger-patzsch/old-masters-Albert-Renger-Patzsch-3.jpg" length="183416" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/03-31-old-master-renger-patzsch/old-masters-Albert-Renger-Patzsch-4.jpg" length="261225" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/03-31-old-master-renger-patzsch/old-masters-Albert-Renger-Patzsch-5325.jpg" length="302665" type="image/jpeg" />
       
 
     </item>
