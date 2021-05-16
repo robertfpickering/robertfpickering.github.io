@@ -7,8 +7,25 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sat, 02 Jan 2021 09:04:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 09:04:10 +0200</lastBuildDate>
     <atom:link href="https://www.robertfpickering.me/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Old Masters - Joel Meyeowitz</title>
+      <link>https://www.robertfpickering.me/posts/2020/04-01-old-master-joel-meyeowitz/</link>
+      <pubDate>Wed, 01 Apr 2020 18:19:39 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>https://www.robertfpickering.me/posts/2020/04-01-old-master-joel-meyeowitz/</guid>
+      <description>&lt;p&gt;Continuing from yesterdays idea of recreating photographs from photographers that I admire.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2020/04-01-old-master-joel-meyeowitz/old-master-joel-meyeowitz-1.jpg" length="210529" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/04-01-old-master-joel-meyeowitz/old-master-joel-meyeowitz-2.jpg" length="522714" type="image/jpeg" />
+      
+      <enclosure url="/posts/2020/04-01-old-master-joel-meyeowitz/old-master-joel-meyeowitz-5337.jpg" length="841950" type="image/jpeg" />
+      
+
+    </item>
     
     <item>
       <title>Old Masters: Renger-Patzsch</title>
@@ -135,17 +152,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://www.robertfpickering.me/posts/2018/05-27-macro/macro-0338.jpg&#34; alt=&#34;macro&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
-
-    </item>
-    
-    <item>
-      <title>Painting Johnny</title>
-      <link>https://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>https://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</guid>
-      <description>A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.</description>
       
 
     </item>

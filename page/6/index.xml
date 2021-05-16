@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Pickering on Robert Pickering</title>
+    <link>https://www.robertfpickering.me/</link>
+    <description>Recent content in Robert Pickering on Robert Pickering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <lastBuildDate>Sun, 16 May 2021 09:04:10 +0200</lastBuildDate>
+    <atom:link href="https://www.robertfpickering.me/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
