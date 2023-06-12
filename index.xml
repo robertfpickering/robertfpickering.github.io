@@ -7,8 +7,35 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sun, 16 May 2021 09:04:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2023 09:04:10 +0200</lastBuildDate>
     <atom:link href="https://www.robertfpickering.me/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Photophile Exhibition</title>
+      <link>https://www.robertfpickering.me/posts/2023/06-10-photophiles/</link>
+      <pubDate>Sat, 10 Jun 2023 09:04:10 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>https://www.robertfpickering.me/posts/2023/06-10-photophiles/</guid>
+      <description>&lt;p&gt;My very happy to be part of a photo exhibition by my photo club &lt;a href=&#34;https://www.photophilesdevillennes.com/&#34;&gt;Les Photophiles de Villennes&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img1_flier_20230609-190315.jpg" length="312372" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img2_robert-3810.jpg" length="1173751" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img3_dandelion-clock-3275.jpg" length="121872" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img4_dandelion-clock-3277.jpg" length="106970" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img5_dandelion-clock-3278.jpg" length="95845" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img6_dandelion-clock-3280.jpg" length="79499" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img7_dandelion-clock-3282.jpg" length="74052" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img8_dandelion-clock-3283.jpg" length="71037" type="image/jpeg" />
+      
+
+    </item>
     
     <item>
       <title>Cottingley Fairies Tribute</title>
@@ -119,12 +146,7 @@
       <pubDate>Fri, 19 Jun 2020 09:19:44 +0200</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2020/06-19-more-macro/</guid>
-      <description>Photos fresh from the early evening. The long grass is teaming with life. Biology in action.
-
-
-
-
-</description>
+      <description>Photos fresh from the early evening. The long grass is teaming with life. Biology in action.</description>
       
       <enclosure url="/posts/2020/06-19-more-macro/large/macro-5785.jpg" length="1257046" type="image/jpeg" />
       
@@ -145,13 +167,7 @@
       <pubDate>Fri, 19 Jun 2020 00:10:49 +0200</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2020/06-19-macro/</guid>
-      <description>I got out and took some more macro photos yesterday.
-
-
-
-
-
-</description>
+      <description>I got out and took some more macro photos yesterday.</description>
       
       <enclosure url="/posts/2020/06-19-macro/macro-0001.jpg" length="105689" type="image/jpeg" />
       
@@ -187,27 +203,12 @@
       <pubDate>Thu, 09 Apr 2020 10:10:49 +0200</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2020/04-09-old-masters-richard-avedon/</guid>
-      <description>&lt;p&gt;While flicking though &lt;a href=&#34;https://www.taschen.com/pages/fr/catalogue/photography/all/45406/facts.la_photographie_du_20e_siecle.htm&#34;&gt;&amp;ldquo;La Photographie du 20e Siècle&amp;rdquo;&lt;/a&gt; I came across this 
+      <description>&lt;p&gt;While flicking though &lt;a href=&#34;https://www.taschen.com/pages/fr/catalogue/photography/all/45406/facts.la_photographie_du_20e_siecle.htm&#34;&gt;&amp;ldquo;La Photographie du 20e Siècle&amp;rdquo;&lt;/a&gt; I came across this
 lovely portrait of the actor Charles Chaplin on his last day in America.&lt;/p&gt;</description>
       
       <enclosure url="/posts/2020/04-09-old-masters-richard-avedon/self-portrait-avedon-chaplin-5403.jpg" length="307807" type="image/jpeg" />
       
       <enclosure url="/posts/2020/04-09-old-masters-richard-avedon/self-portrait-avedon-chaplin-9000.jpg" length="234545" type="image/jpeg" />
-      
-
-    </item>
-    
-    <item>
-      <title>Old Masters: Irving Penn</title>
-      <link>https://www.robertfpickering.me/posts/2020/04-04-old-masters-irving-penn/</link>
-      <pubDate>Sat, 04 Apr 2020 15:51:49 +0200</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>https://www.robertfpickering.me/posts/2020/04-04-old-masters-irving-penn/</guid>
-      <description>&lt;p&gt;An attempt to copy Irving Penn&amp;rsquo;s famous portrait of Pablo Picasso.&lt;/p&gt;</description>
-      
-      <enclosure url="/posts/2020/04-04-old-masters-irving-penn/self-portrait-picasso-penn-5368.jpg" length="399649" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/04-04-old-masters-irving-penn/untitled%20shoot-.jpg" length="498895" type="image/jpeg" />
       
 
     </item>

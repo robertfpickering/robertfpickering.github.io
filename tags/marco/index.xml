@@ -7,8 +7,35 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sat, 02 Jan 2021 09:04:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2023 09:04:10 +0200</lastBuildDate>
     <atom:link href="https://www.robertfpickering.me/tags/marco/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Photophile Exhibition</title>
+      <link>https://www.robertfpickering.me/posts/2023/06-10-photophiles/</link>
+      <pubDate>Sat, 10 Jun 2023 09:04:10 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>https://www.robertfpickering.me/posts/2023/06-10-photophiles/</guid>
+      <description>&lt;p&gt;My very happy to be part of a photo exhibition by my photo club &lt;a href=&#34;https://www.photophilesdevillennes.com/&#34;&gt;Les Photophiles de Villennes&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img1_flier_20230609-190315.jpg" length="312372" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img2_robert-3810.jpg" length="1173751" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img3_dandelion-clock-3275.jpg" length="121872" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img4_dandelion-clock-3277.jpg" length="106970" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img5_dandelion-clock-3278.jpg" length="95845" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img6_dandelion-clock-3280.jpg" length="79499" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img7_dandelion-clock-3282.jpg" length="74052" type="image/jpeg" />
+      
+      <enclosure url="/posts/2023/06-10-photophiles/img8_dandelion-clock-3283.jpg" length="71037" type="image/jpeg" />
+      
+
+    </item>
     
     <item>
       <title>First Frost</title>
