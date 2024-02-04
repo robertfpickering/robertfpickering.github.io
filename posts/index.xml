@@ -7,8 +7,33 @@
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
     <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
-    <lastBuildDate>Sat, 10 Jun 2023 09:04:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 09:04:10 +0200</lastBuildDate>
     <atom:link href="https://www.robertfpickering.me/posts/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Printing Photos at Emulsion Lab</title>
+      <link>https://www.robertfpickering.me/posts/2024/02-04-printing-photos/</link>
+      <pubDate>Sun, 04 Feb 2024 09:04:10 +0200</pubDate>
+      <author>contact@robertfpickering.me (Robert Pickering)</author>
+      <guid>https://www.robertfpickering.me/posts/2024/02-04-printing-photos/</guid>
+      <description>&lt;p&gt;I recently started to think about printing photos “the old fashioned way”, using light sensitive photo paper in a laboratory. I heard there were a few self-service printing laboratories in Paris and knew this would be much easier than trying to gather the equipment myself.&lt;/p&gt;</description>
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/000047490034.jpg" length="1003843" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4590.jpg" length="1642266" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4591.jpg" length="1728834" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4592.jpg" length="1803004" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4593.jpg" length="1886965" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4594.jpg" length="1750714" type="image/jpeg" />
+      
+      <enclosure url="/posts/2024/02-04-printing-photos/colour-photo-development-4595.jpg" length="1506721" type="image/jpeg" />
+      
+
+    </item>
     
     <item>
       <title>Photophile Exhibition</title>
@@ -193,22 +218,6 @@
       <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-1.jpg" length="320230" type="image/jpeg" />
       
       <enclosure url="/posts/2020/04-26-pea-macro/pea-macro-5508.jpg" length="273817" type="image/jpeg" />
-      
-
-    </item>
-    
-    <item>
-      <title>Old Masters: Richard Avedon</title>
-      <link>https://www.robertfpickering.me/posts/2020/04-09-old-masters-richard-avedon/</link>
-      <pubDate>Thu, 09 Apr 2020 10:10:49 +0200</pubDate>
-      <author>contact@robertfpickering.me (Robert Pickering)</author>
-      <guid>https://www.robertfpickering.me/posts/2020/04-09-old-masters-richard-avedon/</guid>
-      <description>&lt;p&gt;While flicking though &lt;a href=&#34;https://www.taschen.com/pages/fr/catalogue/photography/all/45406/facts.la_photographie_du_20e_siecle.htm&#34;&gt;&amp;ldquo;La Photographie du 20e Siècle&amp;rdquo;&lt;/a&gt; I came across this
-lovely portrait of the actor Charles Chaplin on his last day in America.&lt;/p&gt;</description>
-      
-      <enclosure url="/posts/2020/04-09-old-masters-richard-avedon/self-portrait-avedon-chaplin-5403.jpg" length="307807" type="image/jpeg" />
-      
-      <enclosure url="/posts/2020/04-09-old-masters-richard-avedon/self-portrait-avedon-chaplin-9000.jpg" length="234545" type="image/jpeg" />
       
 
     </item>
