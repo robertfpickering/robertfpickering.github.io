@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>photography on Robert Pickering</title>
+    <title>Photography on Robert Pickering</title>
     <link>https://www.robertfpickering.me/categories/photography/</link>
-    <description>Recent content in photography on Robert Pickering</description>
+    <description>Recent content in Photography on Robert Pickering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
@@ -30,7 +30,11 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</guid>
-      <description>A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.</description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/267368751&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.&lt;/p&gt;</description>
       
 
     </item>
