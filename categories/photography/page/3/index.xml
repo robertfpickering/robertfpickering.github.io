@@ -30,9 +30,13 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <author>contact@robertfpickering.me (Robert Pickering)</author>
       <guid>https://www.robertfpickering.me/posts/2018/05-01-painting-johnny/painting-johnny/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/267368751&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <description>&lt;div
+          style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe
+          src=&#34;https://player.vimeo.com/video/267368751?dnt=0&#34;
+            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;fullscreen&#34;&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
 
 &lt;p&gt;A couple of weeks ago my and my friends Johnny Palmer and Helen O&amp;rsquo;Keeffe set out to take a few pictures in Jardin des Tuileries.&lt;/p&gt;</description>
       
