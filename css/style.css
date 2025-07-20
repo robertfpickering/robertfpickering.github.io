@@ -68,6 +68,10 @@ h1, .falseheader {
  * header
  */
 
+.image-header-mobile {
+  display: none;
+}
+
 /**
  * main content
  */
@@ -495,6 +499,14 @@ h4:before {
  * responsive styles
  */
 @media screen and (max-width: 950px) {
+  .image-header {
+    display: none;
+  }
+
+  .image-header-mobile {
+    display: unset;
+  }
+
   img { 
     float: none;
   }
