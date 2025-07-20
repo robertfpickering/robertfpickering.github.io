@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robert Pickering</title>
-    <link>https://www.robertfpickering.me/tags/</link>
+    <link>https://robertfpickering.com/tags/</link>
     <description>Recent content in Tags on Robert Pickering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <managingEditor>contact@robertfpickering.me (Robert Pickering)</managingEditor>
-    <webMaster>contact@robertfpickering.me (Robert Pickering)</webMaster>
+    <managingEditor>contact@robertfpickering.com (Robert Pickering)</managingEditor>
+    <webMaster>contact@robertfpickering.com (Robert Pickering)</webMaster>
     <lastBuildDate>Sun, 04 Feb 2024 09:04:10 +0200</lastBuildDate>
-    <atom:link href="https://www.robertfpickering.me/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://robertfpickering.com/tags/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
